@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Str1vez
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning html, css, javascript, python and c++.
-Email 📧: blahblah4636@gmail.com 
+Programming is Awesome
 
 <!---
 Str1vez/Str1vez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
